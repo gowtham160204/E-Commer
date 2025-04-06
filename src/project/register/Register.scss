@@ -1,0 +1,38 @@
+.body{
+    padding-top: 25px;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+.regbox{
+        font-size: 15px;
+        color: rgb(151, 151, 151);
+        justify-content: center;
+        gap: px;
+        border: 2px solid brown;
+        height: 250px;
+        width: 350px;
+        border-radius: 30px;
+        padding-left: 30px;
+        transition: 0.5s;
+        padding-top: 10px;
+        
+        align-items: center;
+        
+    
+}
+.regbox:hover{
+    justify-content: center;
+    align-items: center;
+    color: rgb(0, 0, 0);
+    border: 2px solid brown;
+    height: 300px;
+    width: 400px;
+    border-radius: 30px;
+   
+    transition: 0.5s;
+    
+}
+.cre{
+    padding: 30px;
+    
+}
