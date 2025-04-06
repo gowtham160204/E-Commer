@@ -17,6 +17,10 @@ function App() {
       <Route path='/c' element={<Cart/>}></Route>
       </Routes>
       </Router>
+      {/* git add .
+      git status
+      git commit -m "message"
+      git push */}
     </div>
   )
 }
